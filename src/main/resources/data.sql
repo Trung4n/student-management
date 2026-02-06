@@ -11,5 +11,4 @@ INSERT INTO students (id, name, email, age) VALUES
 (10, 'Ngô Văn K', 'k@student.edu', 20),
 (11, 'Lý Thị L', 'l@student.edu', 21),
 (12, 'Phan Văn M', 'm@student.edu', 23),
-(13, 'Trịnh Thị N', 'n@student.edu', 19),
-(13, 'Văn Thị A', 'abc@student.edu', 19);
+(13, 'Trịnh Thị N', 'n@student.edu', 19);
